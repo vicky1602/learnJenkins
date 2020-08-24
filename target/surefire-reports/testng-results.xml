@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19325" started-at="2020-08-24T17:35:13Z" finished-at="2020-08-24T17:35:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19325" started-at="2020-08-24T17:35:13Z" finished-at="2020-08-24T17:35:33Z">
+      <class name="ProfileMangement.FirefoxProfile_Test">
+        <test-method status="PASS" signature="launchChromeWithProfile()[pri:0, instance:ProfileMangement.FirefoxProfile_Test@37574691]" name="launchChromeWithProfile" duration-ms="19227" started-at="2020-08-24T17:35:14Z" finished-at="2020-08-24T17:35:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchChromeWithProfile -->
+      </class> <!-- ProfileMangement.FirefoxProfile_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
